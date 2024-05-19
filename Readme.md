@@ -37,7 +37,10 @@ TypeScript, NodeJs, ExpressJs
 2. Making Front-end using NextJS
 
 
-
+## To set up locally
+```
+npm install 
+```
 
 ## Install yarn
 Run the following command on your terminal
