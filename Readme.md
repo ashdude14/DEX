@@ -1,7 +1,7 @@
 # Decentralized exchange (DEX)
 
- DEXs facilitate cryptocurrency trading directly between users without relying on a central authority.
-
+ DEXs facilitate cryptocurrency trading directly between users without relying on a central authority. 
+ [web2 implementation completed, learning for web3..]
 
 # Underlying Technology
 Blockchain: DEXs operate on blockchain technology, typically using smart contracts to automate and secure transactions.
